@@ -1,0 +1,12 @@
+#Organize Import Order
+#Wed May 22 07:29:12 CEST 2019
+0=com
+1=java
+2=javax
+3=org
+
+# manual settings
+#
+# Number of imports needed for .* = 99
+# Number of static imports needed for .* = 99
+# (/) Do not create imports for types starting with lowercase letter
